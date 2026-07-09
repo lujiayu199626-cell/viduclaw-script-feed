@@ -1,8 +1,20 @@
 {
-  "status": "waiting_for_first_daily_run",
-  "updated_at": null,
-  "genre": null,
-  "script_id": null,
-  "title": null,
-  "package_file": "latest.md"
+  "status": "ready_tonight_40min_formal_run",
+  "updated_at": "2026-07-09T23:20:00+08:00",
+  "total_target_duration_seconds": 2400,
+  "works_count": 4,
+  "episodes_count": 40,
+  "episode_target_seconds": 60,
+  "aspect_ratios": {
+    "9:16": 1,
+    "16:9": 3
+  },
+  "titles": [
+    "门缝里的签收人",
+    "蓝灯避难所",
+    "第七张课桌",
+    "雨伞慢三分钟"
+  ],
+  "package_file": "latest.md",
+  "raw_url": "https://raw.githubusercontent.com/lujiayu199626-cell/viduclaw-script-feed/main/latest.md"
 }
