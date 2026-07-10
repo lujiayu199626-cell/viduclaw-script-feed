@@ -1,20 +1,18 @@
 {
-  "status": "ready_tonight_40min_formal_run",
-  "updated_at": "2026-07-09T23:20:00+08:00",
+  "status": "ready_for_viduclaw",
+  "updated_at": "2026-07-10T09:00:00+08:00",
   "total_target_duration_seconds": 2400,
   "works_count": 4,
   "episodes_count": 40,
-  "episode_target_seconds": 60,
   "aspect_ratios": {
     "9:16": 1,
     "16:9": 3
   },
   "titles": [
-    "门缝里的签收人",
-    "蓝灯避难所",
-    "第七张课桌",
-    "雨伞慢三分钟"
+    "凌晨四点的领件码",
+    "雾港四号楼",
+    "雨夜校史馆",
+    "借我半站伞"
   ],
-  "package_file": "latest.md",
-  "raw_url": "https://raw.githubusercontent.com/lujiayu199626-cell/viduclaw-script-feed/main/latest.md"
+  "package_file": "latest.md"
 }
